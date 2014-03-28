@@ -1,7 +1,7 @@
 vaadin7formsdemo
 ================
 
-Bogaty Interfejs Użytkownika: Vaadin - Forms Demo
+Bogaty Interfejs Użytkownika: Vaadin - Forms Demo.
 
 Projekt zawiera zmiany dokonane w czasie wykładu względem repozytorium [KubaNeumann/vaadin7demo](https://github.com/KubaNeumann/vaadin7demo).
 
